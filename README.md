@@ -7,7 +7,6 @@ In this little project I developed a classic game called hangman in Python.
     when you guesses correct character your chance will not be counted when you gives wrong character your chance will be reduced by one.
 
     Hope you enjoy this game. Any modification in this game would be highly appreciated.
-    please make sure to keep all the files in one directory or else it will not work. 
+    
 
     
-    https://github.com/efecnblt/Hangman-Game/raw/main/hangman.gif?raw=true
