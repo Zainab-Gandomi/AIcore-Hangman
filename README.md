@@ -24,6 +24,10 @@ In this little project I developed a classic game called hangman in Python.
     While running some tests, I encountered errors and worked on solving them.
     The code is functioning correctly and is ready to go!!!
 
+    In the final stage, I attempted to optimize my code by making some modifications. 
+    The significant change was in the play_game function, where I altered the while condition and reduced the if condition that I had previously utilized.
+    I also strived to keep the code organized, ensuring that each object maintains its own specific data separate from others.
+
 
     Hope you enjoy this game. Any modification in this game would be highly appreciated.
     
