@@ -8,7 +8,9 @@ In this little project I developed a classic game called hangman in Python.
 
     For this project, I begin by creating a variable through the formation of a list of potential words. Next, I randomly select a letter from this list and proceed to request a single letter as input. 
 
+    The next step is to validate the guess and check if it matches the chosen word. This entire process can be encapsulated within functions to enhance code readability and understanding.
+
     Hope you enjoy this game. Any modification in this game would be highly appreciated.
     
-
+q
     
