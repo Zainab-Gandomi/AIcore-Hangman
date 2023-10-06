@@ -12,5 +12,4 @@ In this little project I developed a classic game called hangman in Python.
 
     Hope you enjoy this game. Any modification in this game would be highly appreciated.
     
-q
-    
+  
